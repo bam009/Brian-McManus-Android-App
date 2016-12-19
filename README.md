@@ -1,3 +1,4 @@
-# Brian-McManus-Android-App
+# Brian McManus CS Final APP
 
-My name is Brian McManus.  For a school project I created an Android mobile app called NowWhat?.  This app is designed to assist college students and recent graduates with searching for their first step into their career path while also tracking their student debt.
+As a school independent project I decdied to develop a mobile app NowWhat?.  This app is designed to help upcoming and recent college 
+graduates get their foot in the door as they start their careers as well as track their student debt.
